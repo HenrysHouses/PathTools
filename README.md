@@ -1,4 +1,4 @@
-# PathTools
+# PathingTools
 Path tool for unity
 
 # Acknowledgements 
