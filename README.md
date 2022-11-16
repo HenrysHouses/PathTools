@@ -3,4 +3,4 @@ Path tool for unity
 
 # Acknowledgements 
 
-- Freya Holmér
+- [Freya Holmér](https://www.youtube.com/@Acegikmo)
