@@ -1,0 +1,16 @@
+{
+    "name": "PathingToolsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9ffbc523e1347984ea0629f1827fe2cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
